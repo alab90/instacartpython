@@ -8,7 +8,7 @@ different customers with applicable marketing campaigns to see whether they have
 Inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products.  
 
 Key questions include:  
-+_What are the e busiest days of the week and hours of the day?_  
++_What are the busiest days of the week and hours of the day?_  
 +_Are particular times of the day when people spend the most money?_  
 +_Are there differences in ordering habits based on a customer’s loyalty status?_  
 +_Are there differences in ordering habits based on a customer’s region?_  
